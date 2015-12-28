@@ -1,5 +1,5 @@
 # rat-a-tat-cat
-A Java project I started working on a few days ago—an application that allows a user to either play a card game (against automated opponents) or run a simulation. The game I'm modeling is called Rat-A-Tat-Cat, and has been one of my family's favorites for years. 
+This is a Java project I started working on a few days ago—an application that allows a user to either play a card game (against automated opponents) or run a simulation. The game I'm modeling is called Rat-A-Tat-Cat, and has been one of my family's favorites for years. 
 
 Here's a link to the game rules: http://www.gamewright.com/gamewright/pdfs/Rules/Rat-a-TatCat-RULES.pdf. (I'm working on adding Javadocs to explain the logic behind the automated turn methods, but understanding how the game works should make my code make more.)
 
